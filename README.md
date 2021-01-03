@@ -1,6 +1,11 @@
 ![Mastodon](https://i.imgur.com/NhZc40l.png)
 ========
 
+
+__NOTE__:  This is a clone of my fork of Mastodon's official repository.
+I plan to do some experiments with this one that would make sence to track them as branches. 
+I will keep my fork of mastodon clean to someday make a pull request :ok_hand:.
+
 [![GitHub release](https://img.shields.io/github/release/tootsuite/mastodon.svg)][releases]
 [![Build Status](https://img.shields.io/circleci/project/github/tootsuite/mastodon.svg)][circleci]
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/tootsuite/mastodon.svg)][code_climate]
